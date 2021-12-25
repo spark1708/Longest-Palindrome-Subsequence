@@ -1,4 +1,4 @@
-#I'st Approch simple and direct 
+# I'st Approch simple and direct 
 def longest_palindrome_subseq(s):
     l = len(s)
     r = s[-1::-1]
